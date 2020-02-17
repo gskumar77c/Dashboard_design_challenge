@@ -1,4 +1,4 @@
-"# Dashboard_design_challenge" 
+"# Dashboard_design_challenge" \n
 you must have the module flask installed in your computer.
 for installing flask : pip install flask   { in windows}
                         sudo pip install flask { in linux}
