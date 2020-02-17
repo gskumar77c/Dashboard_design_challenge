@@ -1,0 +1,58 @@
+
+article, aside, figure, figcaption, footer, header, hgroup, menu, nav, section { display:block; }
+canvas,iframe {
+	border:1px solid #000;
+	margin-left: 80px;
+	width: 30%;
+	border-style: outset;
+	border:7px;
+}
+
+video {
+	margin-top: 40px;
+	margin-left: 100px;
+	width: 50%;
+	border: 7px;
+	border-style: outset;
+}
+button {
+	 background-color: #04c72e; /* Green */
+  border: 2px solid green;
+  border-radius: 12px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 400px;
+
+}
+
+a {
+	color: black;
+	border: 2px solid green;
+	padding: 20px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	background-color: #04c72e;
+	color: white;border-radius: 12px;
+}
+
+
+small { 
+	color:#aaa; 
+	font-size:11px;
+	display:block;
+}
+
+
+h1 {
+	text-align: center;
+	color: #1a1e61;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
